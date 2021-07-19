@@ -253,7 +253,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.4285715, y: 1}
+    m_SensorSize: {x: 2.5869565, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -754,7 +754,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.4285715, y: 1}
+    m_SensorSize: {x: 2.5869565, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -893,7 +893,6 @@ MonoBehaviour:
   controller: {fileID: 1273115793}
   cam: {fileID: 963194228}
   speed: 6
-  turnSmoothTime: 0
 --- !u!143 &1273115793
 CharacterController:
   m_ObjectHideFlags: 0
@@ -905,7 +904,7 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 3.6
+  m_Height: 2.2
   m_Radius: 0.6
   m_SlopeLimit: 45
   m_StepOffset: 0.3
@@ -965,7 +964,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.4285715, y: 1}
+    m_SensorSize: {x: 2.5869565, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1168,7 +1167,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.4285715, y: 1}
+    m_SensorSize: {x: 2.5869565, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
